@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/gonzojive/grpc-web/releases/download/1.6.0.rc1/grpc-web-1.6.0.rc1.zip",
+    "integrity": "sha256-BulHNVjgLx0tY9MNq4reNMbkyCD+4BikgxB13zFJh7A=",
+    "strip_prefix": "grpc-web-1.6.0.rc1",
+    "patch_strip": 0,
+    "patches": {
+    }
+}

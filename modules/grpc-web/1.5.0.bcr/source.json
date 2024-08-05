@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/gonzojive/grpc-web/releases/download/1.5.0.bcr/grpc-web-1.5.0.bcr.zip",
+    "integrity": "sha256-NjziD9l1bovHENRRgi8s2YgRhwkzzYlizjUWywT/wjs=",
+    "strip_prefix": "grpc-web-1.5.0.bcr",
+    "patch_strip": 0,
+    "patches": {
+    }
+}

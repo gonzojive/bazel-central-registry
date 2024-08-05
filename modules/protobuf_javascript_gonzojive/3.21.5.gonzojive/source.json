@@ -1,0 +1,7 @@
+{
+    "url": "https://github.com/gonzojive/protobuf-javascript/releases/download/3.21.5.gonzojive/protobuf-javascript-3.21.5.gonzojive.zip",
+    "integrity": "sha256-BVrs4V2gsb/qlfPtIWY2q23ytJlfWYbNp6qA5l+l+qE=",
+    "strip_prefix": "protobuf-javascript-3.21.5.gonzojive",
+    "patch_strip": 0,
+    "patches": {}
+}
