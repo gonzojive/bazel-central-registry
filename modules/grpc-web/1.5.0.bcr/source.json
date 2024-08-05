@@ -1,9 +1,8 @@
 {
-    "url": "https://github.com/gonzojive/grpc-web/releases/download/1.5.0/grpc-web-1.5.0.zip",
-    "integrity": "sha256-30dmQwuMjjpx/bWmfrGvxl5AUxsHHeLmp3mq25syVaU=",
-    "strip_prefix": "grpc-web-1.5.0",
+    "url": "https://github.com/gonzojive/grpc-web/releases/download/1.5.0.bcr/grpc-web-1.5.0.bcr.zip",
+    "integrity": "sha256-NjziD9l1bovHENRRgi8s2YgRhwkzzYlizjUWywT/wjs=",
+    "strip_prefix": "grpc-web-1.5.0.bcr",
     "patch_strip": 0,
     "patches": {
-        "bzlmod-support.patch": "sha256-+SLnPRcMPpiJy8Y0lWYV3H19ADf6wtdXANIBvJ6Vy7s="
     }
 }
